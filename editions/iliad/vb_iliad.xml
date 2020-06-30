@@ -5,8 +5,8 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
+        <editor>Augusta Holyfield</editor>
+        <editor></editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -19,7 +19,8 @@
   <text>
     <body>
       <div n="17">
-        <l n="1">Iliad text</l>
+        <l n="830">στῆ δ' ὀρθὸσ καὶ μῦθον ἐν ἀργείοισιν ἔειπεν~</l>
+        <l n="831">ὄρνυσθ' οἲ καὶ τούτον ἄεθλον πειρήσεσθε~</l>
       </div>
     </body>
   </text>

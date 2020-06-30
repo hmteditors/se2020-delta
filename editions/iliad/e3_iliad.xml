@@ -5,7 +5,8 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
+        <editor>YOUR NAME </editor>
+        <editor>SECOND EDITOR's NAME HERE</editor>
         <editor>SECOND EDITOR's NAME HERE</editor>
       </titleStmt>
       <publicationStmt>
@@ -18,8 +19,13 @@
   </teiHeader>
   <text>
     <body>
-      <div n="17">
-        <l n="1">Iliad text</l>
+      <div n="23">
+        <l n="830">στῆ δ' ὀρθὸσ καὶ μῦθον ἐν ἀργείοισιν ἔειπεν~</l>
+        <l n="831">ὄρνυσθ' οἲ καὶ τούτον ἄεθλον πειρήσεσθε~</l>
+        <l n="832">εἴ οἱ καὶ μάλα πολλὸν ἀπόπροθι πίονεσ ἀγροὶ,</l>
+        <l n="833">ἔξει μιν καὶ πέντε περιπλομένους ἐνιαυτοὺς</l>
+        <l n="834">χρεώμενος~ οὐ μὲν γάρ οἱ ἀτεμβόμενος γέ σιδήρου</l>
+        <l n="835">ποιμὴν. οὐδ' ἀροτὴρ εἶσ' ἐσ πόλιν. άλλὰ παρέξει~</l>
       </div>
     </body>
   </text>
