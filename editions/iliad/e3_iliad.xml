@@ -5,9 +5,10 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME </editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
+        <editor>Eunice Kim </editor>
+        <editor>Owen Coats</editor>
+        <editor>Augusta Holyfield</editor>
+        <editor>Eric Boot</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
@@ -20,12 +21,13 @@
   <text>
     <body>
       <div n="23">
-        <l n="830">στῆ δ' ὀρθὸσ καὶ μῦθον ἐν ἀργείοισιν ἔειπεν~</l>
+        <l n="830">στῆ δ' ὀρθὸσ καὶ μῦθον ἐν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place114">ἀργείοισιν</rs> ἔειπεν~</l>
         <l n="831">ὄρνυσθ' οἲ καὶ τούτον ἄεθλον πειρήσεσθε~</l>
         <l n="832">εἴ οἱ καὶ μάλα πολλὸν ἀπόπροθι πίονεσ ἀγροὶ,</l>
         <l n="833">ἔξει μιν καὶ πέντε περιπλομένους ἐνιαυτοὺς</l>
         <l n="834">χρεώμενος~ οὐ μὲν γάρ οἱ ἀτεμβόμενος γέ σιδήρου</l>
         <l n="835">ποιμὴν. οὐδ' ἀροτὴρ εἶσ' ἐσ πόλιν. άλλὰ παρέξει~</l>
+        <l n="836"></l>
       </div>
     </body>
   </text>
