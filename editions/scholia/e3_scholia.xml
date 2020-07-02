@@ -4,7 +4,11 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
-                <author>YOUR NAME HERE</author>
+                <author>Eunice Kim</author>
+                <author>Augusta Holyfield</author>
+                <author>Owen Coats</author>
+                <author>Ardi Saunders</author>
+                <author>Eric Boot</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -18,15 +22,15 @@
       <group n="23">
           <text n="e3">
               <body>
-                  <div n="e3_PAGE_SCHOLNUMBER" type="scholion">
-                      <div n="lemma">
-                          <p><num>GREEK NUMBER</num></p>
+                  <div n="e3_312v_1" type="scholion">
+                      <div n="πέντε">
+                          <p><num>α</num></p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.ILIAD_LINE</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.833</p>
                       </div>
                       <div n="comment">
-                          <p>Scholiion text</p>
+                          <p>οὐ σταθμῶι τὸ βάρος ἐνέφηινεν. ἀλλὰ χρήσει πολυχρονίωι⁑</p>
                       </div>
                   </div>
               </body>
