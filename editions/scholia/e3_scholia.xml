@@ -77,6 +77,39 @@
                           <p>ῥάβδον καλὴν ῥοπὴν ἔχουσαν~ βάλλουσι δὲ αὐτὴν ὅτε συνενωθείσας βούλονται διακρῖναι τὰς βοῦς~ ἔχει δὲ ἐν τῶι κάτωι μέρει δεσμὸν εἰς ὃν εἴρουσι τὴν χείρα~ παρὰ τὸ ρέπω δὲ γίνεται ρέψω ῥὲψ. ρὸψ, καλαύροψ~ καὶ <persName n="urn:cite2:hmt:pers.v1:pers7">ἀντίμαχος</persName>~ <cit><ref n="urn">urn:cts:greekLit:tlg0239.tlg002</ref><q>πάντες δ᾽ ἐν χείρεσ~σι καλαύροπας οὐατοέσσας ἕλον</q></cit>~ τῶν ἅπαξ δὲ εἰρημένων ἐστὶν ἡ λέξις⁑</p>
                       </div>
                   </div>
+                  <div n="e3_312v_6" type="scholion">
+                      <div n="διὰ βοῦς">
+                          <p><num>ς</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.846</p>
+                      </div>
+                      <div n="comment">
+                          <p>διὰ βοῶν~ ὡς τὸ <cit><ref n="urn:cts:greekLit:tlg0012.tlg001:23.806"></ref><q>διά τ' ἔντεα</q></cit>⁑</p>
+                      </div>
+                  </div>
+                  <div n="e3_312v_7" type="scholion">
+                      <div n="ἰόνεντα">
+                          <p><num>ζ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.850</p>
+                      </div>
+                      <div n="comment">
+                          <p>μέλανα ὡς τὸ <cit><ref n= "urn:cts:greekLit:tlg0012.tlg001:11.298"></ref><q>ἰοειδέα πόντον</q></cit>~ οἱ δεὸν εἰς βελῶν ἐργασίαν ἐπι τήδειον. ἐξ οὗ τὸν καθαρὸν~ ἡ γὰρ εἰς λεπτὰ κατασκευὴ, καθαροῦ δεῖται σιδήρου⁑</p>
+                      </div>
+                  </div>
+                  <div n="e3_312v_8" type="scholion">
+                      <div n="πελέκεας">
+                          <p><num>η</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.851</p>
+                      </div>
+                      <div n="comment">
+                          <p>διστόμους πελέκεις, δίχα τῶν στειλειῶν~ ἡμιπέλεκα δὲ. τοὺς μονοστόμους πελέκεις⁑</p>
+                      </div>
+                  </div>
               </body>
           </text>
       </group>
